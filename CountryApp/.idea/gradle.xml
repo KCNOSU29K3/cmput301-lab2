@@ -5,18 +5,23 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../eternal_blue/cmput301/Lab-2" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../../eternal_blue/cmput301/Lab-2/CountryApp" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../../eternal_blue/cmput301/Lab-2" />
-            <option value="$PROJECT_DIR$/../../../eternal_blue/cmput301/Lab-2/Lab-2/app" />
+            <option value="$PROJECT_DIR$/../../../../eternal_blue/cmput301/Lab-2/CountryApp" />
+            <option value="$PROJECT_DIR$/../../../../eternal_blue/cmput301/Lab-2/CountryApp/app" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-25" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../eternal_blue/cmput301/Lab-2/CountryApp" />
+            <option value="$PROJECT_DIR$/../../../../eternal_blue/cmput301/Lab-2/CountryApp/app" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
